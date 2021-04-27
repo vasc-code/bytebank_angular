@@ -15,4 +15,5 @@ contaCorrenteRafael.transferir(valor, contaCorrenteAlice);
 
 console.log(contaCorrenteRafael);
 console.log(contaCorrenteAlice);
+console.log(ContaCorrente.numeroDeContas);
 
