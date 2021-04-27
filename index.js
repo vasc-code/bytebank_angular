@@ -23,4 +23,4 @@ contaCorrenteRafael.transferir(valor, contaCorrenteAlice);
 
 console.log("valor: ",valor);
 console.log(contaCorrenteRafael);
-console.log(contaCorrenteAlice);
+console.log(contaCorrenteAlice.saldo);
