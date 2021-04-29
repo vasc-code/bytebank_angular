@@ -1,6 +1,7 @@
 /**
  * Ser autenticavel significa ter a propriedade "senha"
  * 
+ * ducky type: presente em linguagens fracaments tipadas
  */
 
 export class SistemaAutenticacao{
